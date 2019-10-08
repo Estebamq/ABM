@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1570552765 source:d:\primer parcial esteban marcelo quiroz\parcialabm\actores.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"actores.h"
+
+1570552577 d:\primer parcial esteban marcelo quiroz\parcialabm\actores.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1570553084 source:d:\primer parcial esteban marcelo quiroz\parcialabm\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+
+1570553205 d:\primer parcial esteban marcelo quiroz\parcialabm\validaciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1570553660 source:d:\primer parcial esteban marcelo quiroz\parcialabm\main.c
+	<stdio.h>
+	<stdlib.h>
+	"validaciones.h"
+	"actores.h"
+
